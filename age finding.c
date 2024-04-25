@@ -26,8 +26,7 @@ int main()
 	}
 	printf("\n%d falls under age less than 15\n%d falls under the age less than 30\n%d falls under the age less than 45",al15,al30,al45);
 	printf("prakash");	
-	    
-	    
+	printf("Narasimha");
 		
 	
 	return 0;
